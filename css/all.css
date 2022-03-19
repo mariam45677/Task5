@@ -1,0 +1,233 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline-style: none;
+}
+
+html {
+	font-size: 16px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+#sec-1 {
+	background: url("/css/banner.jpg") no-repeat center center;
+	color: #fff;
+}
+
+#sec-1 .container {
+	padding: 20px 0 50px;
+}
+
+.container {
+	width: 1647px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sec-1 header {
+	margin-bottom: 20px;
+	background-color: black;
+}
+
+#sec-1 header .im {
+	
+	width: 5%;
+    margin-left: 180px;
+}
+
+.btn-yellow{
+	border: 1px solid black;
+    margin-top: 27px;
+    border-radius: 2px;
+    padding: 6px;
+    width: 11%;
+    border-radius: 29px;
+    background-color: white;
+}
+
+#sec-1 nav {
+	float: right;
+    margin-right: 205px;
+}
+
+#sec-1 nav a{
+	color: #FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	padding: 5px 10px;
+	font-size: 0.9rem;
+}
+
+#sec-1 nav a:hover{
+	background-color: #F9B700;
+}
+aside{
+	margin-top: 136px;
+    margin-left: 136px;
+}
+#M{
+	background-color: black;
+    margin-top: 548px;
+	margin-left: auto;
+}
+
+aside p{
+    margin-left: 134px;
+    margin-top: 69px;
+    margin-bottom: 30px;
+    font-size: x-large;
+}
+aside h5{
+	margin-left: 150px;
+	color: orange;
+}
+#sec5 article h1,h3 {
+color: #fff;
+}
+#sec1 h1{
+	
+    text-align: center;
+    margin-top: 43px;
+}
+/* section{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  div{
+    width: 30%;
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 14px;
+    margin-bottom: 18px;
+  } */
+  #sec2 .container{
+	margin-top: 103px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: x;
+    margin-right: auto;
+    width: 1200px;
+    margin-left: 114px;
+}
+
+  #sec2 article img{
+	width: 102%;
+    margin-left: -38px;
+    margin-left: -4px;
+    margin-top: -6px;
+}
+  
+  article{
+    padding: 5px;
+    width: 23%;
+    background-color: black;
+    margin-top: 53px;
+    margin: 6px;
+    position: relative;
+    margin-left: 118px;}
+  #sec2 h2{
+    margin: auto;
+    color: black;
+    margin-top: -54px;
+  }
+article h4{
+	color: orange;
+}
+article p{
+	color: #fff
+}
+#sec2 h2{
+	margin-top: -55px;
+}
+.clearFix{
+    clear: both;
+}
+#sec3{
+    background-color: black;
+    margin-top: 57px;
+    
+}
+/* #sec3 article{
+    margin-left: 62px;
+    margin-top: 37px;
+} */
+#sec3 .container{
+	margin-top: 103px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: x;
+    margin-right: auto;
+    width: 1200px;
+    margin-left: 66px;
+}
+#sec3 img{
+    width: 210%;
+    margin-top: 36px;
+}
+#sec3 h1{
+    text-align: center;
+        color: orange;
+        margin-left: 637px;
+        position: absolute;
+        margin-top: 20px;
+    
+}
+#sec3 .aside{
+    width: 162%;
+    background-color: orange;
+    margin-left: -68px;
+    margin-right: -355px;
+  
+}
+#sec3 article{
+    padding: 5px;
+    width: 10%;
+    position: relative;
+    background-color: black;
+    margin-top: 53px;
+}
+#sec3 .aside h5 ,h2{
+    margin-left: 130px; 
+    margin-left: 255px;
+    color: white;
+    margin-top: 36px;
+    
+}
+#sec3 .aside h2{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#sec3 .aside button{
+    float: right;
+    margin-top: 0px;
+    margin-right: 171px;
+    width: 8%;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+#sec4{
+    background-image: url(/css/contactus.jpg);
+    background-size: 100% 100%;
+}
+#sec4 input , button{
+    width: 83%;
+    padding: 12px;
+    margin-top: 43px;
+    margin-left: 22px;
+}
+.overlay {
+	background-color: RGBA(0,0,0,0.7);
+}
+
+#sec6 article{
+    color: white;
+    
+    margin-top: 0px;
+}
